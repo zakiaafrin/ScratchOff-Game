@@ -1,0 +1,54 @@
+#s1 {
+	position: relative;
+	top: -340px;
+	left: 404px;
+}
+#s2 {
+	position: relative;
+	top: -337px;
+	left: 404px;
+}
+#s3 {
+	position: relative;
+	top: -334px;
+	left: 404px;
+}
+#s4 {
+	position: relative;
+	top: -487px;
+	left: 490px;
+}
+#s5 {
+	position: relative;
+	top: -484px;
+	left: 490px;
+}
+#s6 {
+	position: relative;
+	top: -481px;
+	left: 490px;
+}
+.modal-title {
+	text-align: center;
+	color: white;
+	font-weight: bold;
+}
+p {
+	text-align: center;
+	font-weight: bold;
+}
+.modal-header {
+	background-color: rgb(66, 41, 124);
+}
+.modal-body {
+	background-color: lightskyblue;
+	padding: 40px;
+	font-size: 18px;
+}
+.modal-footer {
+	background-color: rgb(66, 41, 124);
+	padding: 5px;
+}
+.modal-header .close {
+	color: white;
+}
