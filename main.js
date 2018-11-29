@@ -4,7 +4,7 @@ var myModal = document.getElementById("myModal");
 
 function scratch(grey) {
    grey.src = "scratching.gif";
-   setTimeout(() => grey.style.opacity = "0", 1000);
+   setTimeout(() => grey.style.opacity = "0", 1500);
    win.play();
    setTimeout(() => win.play(), 1000);
    myModal.style.visibility = "hidden";
