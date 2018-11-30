@@ -1,3 +1,7 @@
+body {
+	user-select: none;
+}
+
 #s1 {
 	position: relative;
 	top: -340px;
